@@ -1,0 +1,115 @@
+site_name: 游泳社教练手册（2.0内测版）
+# site_url: https://www.bityys.org/
+site_description: BIT游泳社教案
+site_author: BIT游泳社教案组
+
+repo_name: BIT游泳社教练手册
+repo_url: https://github.com/BITYYS/Instructor-Manual
+edit_uri: ""
+
+# nav:
+# - 0.综述: 0.综述.md
+# - 1.引言: 1.引言.md
+# - 2.教学方法: 2.教学方法.md
+# - 3.安全教育: 3.安全教育.md
+# - 4.准备活动: 4.准备活动.md
+# - 5.蛙泳四步教学: 5.蛙泳四步教学.md
+# - 6.深水突击班: 6.深水突击班.md
+# - 7.教练员培养体系: 7.教练员培养体系.md
+# - 8.教案的修改及完善: 8.教案的修改及完善.md
+# - 历史版本: 历史版本.md
+
+nav:
+- 综述: 0.综述.md
+- 教学理论:
+  - 引言: 1.引言.md
+  - 教学方法: 2.教学方法.md
+  - 安全教育: 3.安全教育.md
+  - 准备活动: 4.准备活动.md
+# - 练习库:
+#   - 蛙泳四步教学: 5.蛙泳四步教学.md
+#   - 深水突击班: 6.深水突击班.md
+- 初级班:
+  - 蛙泳四步教学: 5.蛙泳四步教学.md
+- 深水突击班:
+  - 深水突击班: 6.深水突击班.md
+- 更多内容:
+  - 教练员培养体系: 7.教练员培养体系.md
+  - 教案的修改及完善: 8.教案的修改及完善.md
+  - 历史版本: 历史版本.md
+
+copyright: Copyright &copy; 2022 <a href="https://github.com/rm-rf-me">ljc</a>, Maintained by the <a href="/历史版本/#历史版本">BIT游泳社教案组</a>.
+
+theme:
+  name: material
+  favicon: img/favicon.ico
+  logo: img/favicon.png
+
+  features:
+  - navigation.instant
+  - navigation.tabs
+  - navigation.tabs.sticky
+  # - navigation.sections
+  # - navigation.expand
+  # - navigation.indexes
+  - toc.integrate
+  # - header.autohide
+  - search.suggest
+
+  palette:
+  #   primary: cyan
+  #   accent: pink
+
+  # Toggle light mode
+    - scheme: default
+      primary: cyan
+      accent: pink
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+
+    # Toggle dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rm-rf-me
+      
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/506080676
+
+plugins:
+  - search:
+      separator: '[\\s\\u200b\\-]'
+
+# theme:
+#     name: readthedocs
+
+# theme:
+#     name: mkdocs
+#     analytics:
+#         gtag: G-ABC123
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition
+    - attr_list
+    - def_list
+    # - mdx_gh_links:
+    #     user: mkdocs
+    #     repo: mkdocs
+
+# plugins:
+#     - search
+#     - redirects:
+#         redirect_maps:
+#             user-guide/plugins.md: dev-guide/plugins.md
+#             user-guide/custom-themes.md: dev-guide/themes.md
+#             user-guide/styling-your-docs.md: user-guide/choosing-your-theme.md
