@@ -14,7 +14,7 @@
   * 强化教学活动的规范、统一。
     * 每位教练员有详细的教学依据，教案也是教练培训体系的核心。
     * 每位学员如有疑问可以查询相关的依据。
-  * 为了将更加科学、有效的游泳学习方法分享给每一位需要的人。可以是参与教学活动的学员、可以是相互提高的朋友、可以是自学的师生、也可以是有意向了成为一名游泳社教练的同学。
+  * 为了将更加科学、有效的游泳学习方法分享给每一位需要的人：可以是参与教学活动的学员、可以是相互提高的朋友、可以是自学的师生、也可以是有意向成为一名游泳社教练的同学。
 
 * 教练手册的教学内容主要来自于：
 
@@ -61,7 +61,7 @@
 
 你可以通过以下渠道联系我们：
 
-1. [Github](https://github.com/BITYYS/Instructor-Manual)仓库提交issue，或联系[仓库维护者](https://github.com/orgs/BITYYS/people)
+1. [Github](https://github.com/BITYYS/Instructor-Manual/issues/new)仓库提交issue，或联系[仓库维护者](https://github.com/orgs/BITYYS/people)
 2. 给游泳社发邮件：bityouyongshe@163.com
 3. 加入QQ群联系群管理员：983352543
 
