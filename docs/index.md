@@ -47,7 +47,7 @@
     </p> 
     <div class="text-center">
     <a href="蛙泳/完全不会阶段/" class="md-button" role="button">蛙泳四步教学</a>
-    <a href="/深水突击班/6.深水突击班/" class="md-button" role="button">深水突击班</a>
+    <a href="/深水突击班/深水突击班/" class="md-button" role="button">深水突击班</a>
     </div>
 </li> 
 
@@ -63,8 +63,8 @@
         </ul>
     </p> 
 <div class="text-center">
-<a href="/0.综述/" class="md-button" role="button">综述</a>
-<a href="/教学理论/1.引言/" class="md-button" role="button">教学理论</a>
+<a href="/综述/" class="md-button" role="button">综述</a>
+<a href="/教学理论/教学活动的意义/" class="md-button" role="button">教学理论</a>
 </div>
 </li> 
 
@@ -80,7 +80,7 @@
     </p> 
 
 <div class="text-center">
-<a href="/7.教练员培养体系/" class="md-button" role="button">教练员培养体系</a>
+<a href="/教练员培养体系/" class="md-button" role="button">教练员培养体系</a>
 </div>
 </li> 
 <li> 
