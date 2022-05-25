@@ -1,5 +1,5 @@
 
-<style>@media screen and (min-width: 76.1875em){body > div.md-container > main > div > div.md-sidebar.md-sidebar--primary{display: none;}}</style>
+
 
 
 # BIT游泳社教练手册
