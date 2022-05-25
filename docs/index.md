@@ -46,7 +46,7 @@
         </ul>
     </p> 
     <div class="text-center">
-    <a href="蛙泳/完全不会阶段/" class="md-button" role="button">蛙泳四步教学</a>
+    <a href="/蛙泳/四步教学综述/" class="md-button" role="button">蛙泳四步教学</a>
     <a href="/深水突击班/深水突击班/" class="md-button" role="button">深水突击班</a>
     </div>
 </li> 
