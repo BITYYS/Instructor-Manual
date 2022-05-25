@@ -1,0 +1,72 @@
+.md-typeset h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 300;
+    margin: 0 0 0.75em;
+}
+
+div.col-md-9>p:first-of-type {
+    text-align: center;
+}
+
+div.col-md-9 p.admonition-title:first-of-type {
+    text-align: left;
+}
+
+div.col-md-9 h1:first-of-type .headerlink {
+    display: none;
+}
+
+code.no-highlight {
+    color: black;
+}
+
+/* Definition List styles */
+
+dd {
+    padding-left: 20px;
+}
+
+/* Homepage */
+
+body > div.md-container > section > div > div > div.jumbotron {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom: 0;
+    
+}
+
+body.homepage div.jumbotron div.card {
+    margin-bottom: 2rem;
+}
+
+body.homepage>div.container>div.row>div.col-md-3 {
+    display: none;
+}
+
+body.homepage>div.container>div.row>div.col-md-9 {
+    margin-left: 0;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+body > div.md-container > main > div > div.md-content > article > div.grid.cards {
+    grid-gap: 0.4rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(20rem,1fr));
+    margin: 1em 0;
+}
+
+body > div.md-container > main > div > div.md-content > article > div.grid.cards > li {
+    border: 0.05rem solid var(--md-default-fg-color--lightest);
+    border-radius: 0.1rem;
+    display: block;
+    margin: 0;
+    padding: 0.8rem;
+    -webkit-transition: border .25s,box-shadow .25s;
+    transition: border .25s,box-shadow .25s;
+}
+
+.text-center {
+    text-align: center !important;
+}

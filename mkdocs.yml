@@ -1,4 +1,4 @@
-site_name: 游泳社教练手册（2.1内测版）
+site_name: BIT游泳社教练手册
 site_url: https://bit-swimming.club/
 site_description: BIT游泳社教案
 site_author: BIT游泳社教案组
@@ -20,28 +20,36 @@ edit_uri: ""
 # - 历史版本: 历史版本.md
 
 nav:
+
 - 综述: 0.综述.md
 - 教学理论:
-  - 引言: 1.引言.md
-  - 教学方法: 2.教学方法.md
-  - 安全教育: 3.安全教育.md
-  - 准备活动: 4.准备活动.md
+  - 引言: 教学理论/1.引言.md
+  - 教学方法: 教学理论/2.教学方法.md
+  - 安全教育: 教学理论/3.安全教育.md
+  - 准备活动: 教学理论/4.准备活动.md
 # - 练习库:
 #   - 蛙泳四步教学: 5.蛙泳四步教学.md
 #   - 深水突击班: 6.深水突击班.md
-- 初级班:
-  - 蛙泳四步教学: 5.蛙泳四步教学.md
+# - 初级班:
+- 蛙泳四步教学: 
+  - 完全不会: 蛙泳/完全不会阶段.md
+  - 纯蛙泳腿: 蛙泳/纯蛙泳腿阶段.md
+  - 呼吸蛙泳腿: 蛙泳/呼吸蛙泳腿阶段.md
+  - 蛙泳配合: 蛙泳/蛙泳配合阶段.md
+  - 常见问题: 蛙泳/常见问题.md
 - 深水突击班:
-  - 深水突击班: 6.深水突击班.md
-- 更多内容:
-  - 教练员培养体系: 7.教练员培养体系.md
-  - 教案的修改及完善: 8.教案的修改及完善.md
-  - 历史版本: 历史版本.md
+  - 深水突击班: 深水突击班/6.深水突击班.md
+# - 更多内容:
+- 教练员培养体系: 7.教练员培养体系.md
+- 教案的修改完善: 8.教案的修改及完善.md
+- 贡献者: 贡献者.md
 
-copyright: Copyright &copy; 2022 <a href="https://github.com/rm-rf-me">ljc</a>, Maintained by the <a href="/历史版本/#历史版本">BIT游泳社教案组</a>.
+copyright: Copyright &copy; 2021-2022 <a href="https://github.com/rm-rf-me">ljc</a>. Maintained by the <a href="/历史版本/#历史版本">BIT游泳社教案组</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
 
 theme:
   name: material
+  # custom_dir: !ENV [THEME_DIR, "material"]
+  custom_dir: overrides/
   favicon: img/favicon.ico
   logo: img/favicon.png
 
@@ -83,6 +91,9 @@ extra:
       
     - icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/506080676
+  
+extra_css:
+    - css/extra.css
 
 plugins:
   - search:
@@ -104,6 +115,7 @@ markdown_extensions:
     - def_list
     - pymdownx.details
     - pymdownx.superfences
+    - md_in_html
     # - mdx_gh_links:
     #     user: mkdocs
     #     repo: mkdocs
