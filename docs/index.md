@@ -1,5 +1,5 @@
 
-<style>body > div.md-container > main > div > div.md-sidebar.md-sidebar--primary{display: none;}</style>
+<style>@media screen and (min-width: 76.1875em){body > div.md-container > main > div > div.md-sidebar.md-sidebar--primary{display: none;}}</style>
 
 
 # BIT游泳社教练手册
@@ -44,7 +44,7 @@
     </p> 
 <div class="text-center">
 <a href="/0.综述/" class="md-button" role="button">综述</a>
-<a href="/教学理论/1.引言/" class="md-button" role="button">综述</a>
+<a href="/教学理论/1.引言/" class="md-button" role="button">教学理论</a>
 </div>
 </li> 
 

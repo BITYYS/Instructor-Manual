@@ -49,7 +49,7 @@ copyright: Copyright &copy; 2021-2022 <a href="https://github.com/rm-rf-me">ljc<
 theme:
   name: material
   # custom_dir: !ENV [THEME_DIR, "material"]
-  custom_dir: overrides/
+  # custom_dir: overrides/
   favicon: img/favicon.ico
   logo: img/favicon.png
 
