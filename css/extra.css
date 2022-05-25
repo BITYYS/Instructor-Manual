@@ -1,15 +1,17 @@
-.md-typeset h1 {
+/* .md-header__button.md-logo :-webkit-any(img,svg) {
+    height: 2rem;
+    width: auto;
+} */
+
+
+/* .md-typeset h1 {
     text-align: center;
     font-size: 60px;
     font-weight: 300;
     margin: 0 0 0.75em;
-}
-
-
+} */
 
 /* Homepage */
-
-
 body > div.md-container > main > div > div.md-content > article > div.grid.cards {
     grid-gap: 0.4rem;
     display: grid;
@@ -31,7 +33,7 @@ body > div.md-container > main > div > div.md-content > article > div.grid.cards
     text-align: center !important;
 }
 
-@media screen and (min-width: 76.1875em){
+/* @media screen and (min-width: 76.1875em){
     body > div.md-container > main > div > div.md-sidebar.md-sidebar--primary{
         display: none;
     }
@@ -45,5 +47,5 @@ body > div.md-container > main > div > div.md-content > article > div.grid.cards
         grid-template-columns: repeat(auto-fit,minmax(20rem,1fr));
         margin: 1em 0;
     }
-}
+} */
 
