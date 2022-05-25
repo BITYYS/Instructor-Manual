@@ -23,6 +23,9 @@ nav:
 
 - 综述: 0.综述.md
 - 教学理论:
+  - 教学活动的意义 : 教学理论/教学活动的意义.md
+  - 教学活动中的角色: 教学理论/教学活动中的角色.md
+  - 教学的现在和未来: 教学理论/教学的现在和未来.md
   - 引言: 教学理论/1.引言.md
   - 教学方法: 教学理论/2.教学方法.md
   - 安全教育: 教学理论/3.安全教育.md
@@ -61,12 +64,12 @@ theme:
   - navigation.instant
   - navigation.tabs
   - navigation.tabs.sticky
+  - toc.integrate
+  - search.suggest
   # - navigation.sections
   # - navigation.expand
   # - navigation.indexes
-  - toc.integrate
   # - header.autohide
-  - search.suggest
 
   palette:
   #   primary: cyan
@@ -139,6 +142,12 @@ markdown_extensions:
     - md_in_html
     - tables
     - attr_list
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
+
     # - mdx_gh_links:
     #     user: mkdocs
     #     repo: mkdocs

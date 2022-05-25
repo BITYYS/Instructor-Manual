@@ -14,6 +14,12 @@
         margin: 1em 0;
     }
 }
+.md-typeset h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 300;
+    margin: 0 0 0.75em;
+}
 </style>
 
 # BIT游泳社教练手册
