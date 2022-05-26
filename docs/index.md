@@ -14,6 +14,9 @@
         margin: 1em 0;
     }
 }
+
+
+
 .md-typeset h1 {
     text-align: center;
     font-size: 60px;
@@ -22,18 +25,27 @@
 }
 
 .mdx-users {
-        gap: 1rem;
+    gap: 0.2rem;
+    margin: 0 0;
+}
+
+.md-typeset figure {
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0.2em 0;
 }
 </style>
 
 # BIT游泳社教练手册
 <hr> 
 
-这是BIT游泳社在长期教学活动中总结整理出的教学经验整合，也是游泳社教学活动的参考标准。为了便于广大师生了解BIT游泳社的教学活动和流程、强化教学活动的规范统一、并将更加科学有效的游泳学习方法分享给每一位需要的人，BIT游泳社现将教练手册公开发布！教练手册的内容主要来自于BIT游泳社长期的教学经验整合，以及教练团队和校游泳队成员长期的游泳经验，经过[BIT游泳社教案组]收集、讨论和修订后整合发布，在未来的时间里BIT游泳社会一直维护更新该教案，并依据该教案的内容开展社团的教学活动。
+这是BIT游泳社在长期教学活动中总结整理出的教学经验和方法，也是游泳社教学活动的参考标准。为了便于广大师生了解BIT游泳社的教学活动和流程、强化教学活动的规范统一、并将更加科学有效的游泳学习方法分享给每一位需要的人，BIT游泳社现将教练手册公开发布！
+
+教练手册的内容主要来自于BIT游泳社长期的教学经验整合，以及教练团队和校游泳队成员长期的游泳经验，经过[BIT游泳社教案组]收集、讨论和修订后整合发布，在未来的时间里BIT游泳社会一直维护更新该教案，并依据该教案的内容开展社团的教学活动。
 
 本教案面向所有BITers公开：可以是参与教学活动的学员、可以是相互提高的朋友、可以是自学的师生、也可以是有意向成为一名BIT游泳社教练的同学，希望该教案能帮助到每一个热爱游泳的人！
 
-[BIT游泳社教案组]: /贡献者/
+[BIT游泳社教案组]: /contributors/
 
 <br>
 
@@ -85,7 +97,9 @@
 
 <div class="text-center">
 <a href="/教练员培养体系/" class="md-button" role="button">教练员培养体系</a>
+<a href="/contact/" class="md-button" role="button">联系我们</a>
 </div>
+
 </li> 
 <li> 
 <p><strong>我想成为贡献者</strong></p> 
@@ -101,7 +115,9 @@
     </p> 
 <div class="text-center">
 <a href="/contributors/" class="md-button" role="button">贡献者</a>
+<a href="/contact/" class="md-button" role="button">联系我们</a>
 </div>
+
 </li> 
     
 </div>
@@ -182,12 +198,12 @@
     <figure class="mdx-users__testimonial"> 
     <a href="/contributors/">
         <img src="/img/contributor/sxj.jpg" alt="sxj" loading="lazy" width="100" height="100"> 
-        </a>> 
+        </a>
     </figure> 
     <figure class="mdx-users__testimonial">  
     <a href="/contributors/">
         <img src="/img/contributor/wyf.jpg" alt="wyf" loading="lazy" width="100" height="100"> 
-        </a>> 
+        </a>
     </figure> 
     <figure class="mdx-users__testimonial">  
     <a href="/contributors/">
@@ -202,7 +218,7 @@
     <figure class="mdx-users__testimonial">  
     <a href="/contributors/">
         <img src="/img/contributor/ldx.jpg" alt="ldx" loading="lazy" width="100" height="100"> 
-        </a>> 
+        </a>
     </figure> 
     <figure class="mdx-users__testimonial">  
 

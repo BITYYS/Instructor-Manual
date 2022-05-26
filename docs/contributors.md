@@ -134,7 +134,6 @@
   </figure> 
 
   <figure class="mdx-users__testimonial"> 
-  <figure class="mdx-users__testimonial"> 
   <img src="/img/contributor/ldx.jpg" alt="ldx" loading="lazy" width="100" height="100"> 
     <figcaption class="md-typeset"> 
       <h2>刘冬翔</h2> 
@@ -282,17 +281,17 @@
   </figure> 
 
   <figure class="mdx-users__testimonial"> 
-  <img src="/img/contributor/ldx.jpg" alt="ldx" loading="lazy" width="100" height="100"> 
+  <img src="/img/contributor/wyf.jpg" alt="wyf" loading="lazy" width="100" height="100"> 
     <figcaption class="md-typeset"> 
-      <h2>刘冬翔</h2> 
+      <h2>王雨菲</h2> 
       <!-- <hr>  -->
     </figcaption> 
   </figure> 
 
   <figure class="mdx-users__testimonial"> 
-  <img src="/img/contributor/wyf.jpg" alt="wyf" loading="lazy" width="100" height="100"> 
+  <img src="/img/contributor/ldx.jpg" alt="ldx" loading="lazy" width="100" height="100"> 
     <figcaption class="md-typeset"> 
-      <h2>王雨菲</h2> 
+      <h2>刘冬翔</h2> 
       <!-- <hr>  -->
     </figcaption> 
   </figure> 
