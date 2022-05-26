@@ -96,11 +96,48 @@
         </ul>
     </p> 
 <div class="text-center">
-<a href="贡献者/" class="md-button" role="button">贡献者</a>
+<a href="/contributors/" class="md-button" role="button">贡献者</a>
 </div>
 </li> 
     
 </div>
 
 
-<br>
+
+
+<div class="md-content__inner"> 
+  <header class="md-typeset"> 
+  <div class="text-center">
+    <h2> 贡献者 <a href="" class="headerlink" title="Permanent link"> ¶ </a> 
+    </h2> 
+  </div>
+  </header> 
+
+  <div class="mdx-users"> 
+    <figure class="mdx-users__testimonial"> 
+    <img src="/img/contributor/ljc.jpg" alt="ljc" loading="lazy" width="100" height="100"> 
+  </figure> 
+
+  <figure class="mdx-users__testimonial"> 
+    <img src="/img/contributor/yry.jpg" alt="ryr" loading="lazy" width="100" height="100"> 
+  </figure> 
+
+  <figure class="mdx-users__testimonial"> 
+    <img src="/img/contributor/zwj.jpg" alt="zwj" loading="lazy" width="100" height="100"> 
+  </figure> 
+
+  <figure class="mdx-users__testimonial"> 
+    <img src="/img/contributor/zxy.jpg" alt="zxy" loading="lazy" width="100" height="100"> 
+  </figure> 
+
+  <figure class="mdx-users__testimonial"> 
+    <img src="/img/contributor/fc.jpg" alt="fc" loading="lazy" width="100" height="100"> 
+  </figure> 
+
+<figure class="mdx-users__testimonial"> 
+    <img src="/img/contributor/zc.jpg" alt="zc" loading="lazy" width="100" height="100"> 
+  </figure> 
+
+  </div> 
+
+</div>
