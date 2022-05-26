@@ -108,8 +108,8 @@
 <div class="md-content__inner"> 
   <header class="md-typeset"> 
   <div class="text-center">
-    <h2> 贡献者 <a href="" class="headerlink" title="Permanent link"> ¶ </a> 
-    </h2> 
+    <h1> 贡献者 <a href="" class="headerlink" title="Permanent link"> ¶ </a> 
+    </h1> 
   </div>
   </header> 
 

@@ -30,7 +30,7 @@
           他的GitHub
       </a> 
       </h3> 
-      <hr> 
+      <!-- <hr>  -->
     </figcaption> 
   </figure> 
 
@@ -44,7 +44,7 @@
         他的个人主页
         </a> 
       </h3> 
-      <hr> 
+      <!-- <hr>  -->
     </figcaption> 
   </figure> 
 
@@ -58,7 +58,7 @@
         她的小红书
         </a> 
       </h3> 
-      <hr> 
+      <!-- <hr>  -->
     </figcaption> 
   </figure> 
 
@@ -66,7 +66,7 @@
     <img src="/img/contributor/zc.jpg" alt="zc" loading="lazy" width="100" height="100"> 
     <figcaption class="md-typeset"> 
       <h2>张晨</h2> 
-      <hr> 
+      <!-- <hr>  -->
     </figcaption> 
   </figure> 
 
@@ -85,7 +85,7 @@
         他的GitHub
         </a> 
       </h3> 
-      <hr> 
+      <!-- <hr>  -->
     </figcaption> 
   </figure> 
 
@@ -124,7 +124,7 @@
           他的GitHub
       </a> 
       </h3> 
-      <hr> 
+      <!-- <hr>  -->
     </figcaption> 
   </figure> 
 
@@ -138,7 +138,7 @@
         他的个人主页
         </a> 
       </h3> 
-      <hr> 
+      <!-- <hr>  -->
     </figcaption> 
   </figure> 
 
@@ -152,7 +152,7 @@
         她的小红书
         </a> 
       </h3> 
-      <hr> 
+      <!-- <hr>  -->
     </figcaption> 
   </figure> 
 
@@ -160,7 +160,7 @@
     <img src="/img/contributor/zxy.jpg" alt="zxy" loading="lazy" width="100" height="100"> 
     <figcaption class="md-typeset"> 
       <h2>曾熙玥</h2> 
-      <hr> 
+      <!-- <hr>  -->
     </figcaption> 
   </figure> 
 
@@ -187,7 +187,7 @@
           他的GitHub
       </a> 
       </h3> 
-      <hr> 
+      <!-- <hr>  -->
       <h3>Github仓库维护</h3> 
       <h3>教练手册网站搭建及维护</h3> 
       <h3>社团网站开发</h3> 
@@ -204,7 +204,7 @@
         他的个人主页
         </a> 
       </h3> 
-      <hr> 
+      <!-- <hr>  -->
       <h3>Github仓库维护</h3> 
       <h3>社团网站开发</h3> 
     </figcaption> 
@@ -220,7 +220,7 @@
         他的GitHub
         </a> 
       </h3> 
-      <hr> 
+      <!-- <hr>  -->
       <h3>Github仓库维护</h3> 
     </figcaption> 
   </figure> 
