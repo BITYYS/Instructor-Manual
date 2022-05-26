@@ -108,34 +108,47 @@
 <div class="md-content__inner"> 
   <header class="md-typeset"> 
   <div class="text-center">
-    <h1> 贡献者 <a href="" class="headerlink" title="Permanent link"> ¶ </a> 
+    <h1> 贡献者 
+    <!-- <a href="" class="headerlink" title="Permanent link"> ¶ </a>  -->
     </h1> 
   </div>
   </header> 
 
   <div class="mdx-users"> 
     <figure class="mdx-users__testimonial"> 
+    <a href="/contributors/">
     <img src="/img/contributor/ljc.jpg" alt="ljc" loading="lazy" width="100" height="100"> 
+    </a>
   </figure> 
 
   <figure class="mdx-users__testimonial"> 
+  <a href="/contributors/">
     <img src="/img/contributor/yry.jpg" alt="ryr" loading="lazy" width="100" height="100"> 
+    </a>
   </figure> 
 
   <figure class="mdx-users__testimonial"> 
+  <a href="/contributors/">
     <img src="/img/contributor/zwj.jpg" alt="zwj" loading="lazy" width="100" height="100"> 
+    </a>
   </figure> 
 
-  <figure class="mdx-users__testimonial"> 
+  <figure class="mdx-users__testimonial">  
+  <a href="/contributors/">
     <img src="/img/contributor/zxy.jpg" alt="zxy" loading="lazy" width="100" height="100"> 
+    </a>
   </figure> 
 
-  <figure class="mdx-users__testimonial"> 
+  <figure class="mdx-users__testimonial">  
+  <a href="/contributors/">
     <img src="/img/contributor/fc.jpg" alt="fc" loading="lazy" width="100" height="100"> 
+    </a>
   </figure> 
 
-<figure class="mdx-users__testimonial"> 
+<figure class="mdx-users__testimonial">  
+  <a href="/contributors/">
     <img src="/img/contributor/zc.jpg" alt="zc" loading="lazy" width="100" height="100"> 
+    </a>
   </figure> 
 
   </div> 
