@@ -33,11 +33,11 @@ body > div.md-container > main > div > div.md-content > article > div.grid.cards
     text-align: center !important;
 }
 
-.md-content__inner {
+/* .md-content__inner {
     margin-bottom: 0;
     padding: 5.2rem 0;
     margin: 0 0.8rem 1.2rem;
-}
+} */
 
 .md-content header {
     display: block;

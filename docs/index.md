@@ -20,6 +20,10 @@
     font-weight: 300;
     margin: 0 0 0.75em;
 }
+
+.mdx-users {
+        gap: 1rem;
+}
 </style>
 
 # BIT游泳社教练手册
@@ -116,40 +120,102 @@
 
   <div class="mdx-users"> 
     <figure class="mdx-users__testimonial"> 
+        <a href="/contributors/">
+        <img src="/img/contributor/ljc.jpg" alt="ljc" loading="lazy" width="100" height="100"> 
+        </a>
+    </figure> 
+    <figure class="mdx-users__testimonial"> 
+        <a href="/contributors/">
+        <img src="/img/contributor/yry.jpg" alt="ryr" loading="lazy" width="100" height="100"> 
+        </a>
+    </figure> 
+    <figure class="mdx-users__testimonial"> 
     <a href="/contributors/">
-    <img src="/img/contributor/ljc.jpg" alt="ljc" loading="lazy" width="100" height="100"> 
-    </a>
-  </figure> 
+        <img src="/img/contributor/zwj.jpg" alt="zwj" loading="lazy" width="100" height="100"> 
+        </a>
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+    <a href="/contributors/">
+        <img src="/img/contributor/zxy.jpg" alt="zxy" loading="lazy" width="100" height="100"> 
+        </a>
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+    <a href="/contributors/">
+        <img src="/img/contributor/fc.jpg" alt="fc" loading="lazy" width="100" height="100"> 
+        </a>
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+    <a href="/contributors/">
+        <img src="/img/contributor/zc.jpg" alt="zc" loading="lazy" width="100" height="100"> 
+        </a>
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+    <a href="/contributors/">
+        <img src="/img/contributor/laj.jpg" alt="laj" loading="lazy" width="100" height="100"> 
+        </a>
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+    <a href="/contributors/">
+        <img src="/img/contributor/zyx.jpg" alt="zyx" loading="lazy" width="100" height="100"> 
+        </a>
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+    <a href="/contributors/">
+        <img src="/img/contributor/wxt.jpg" alt="wxt" loading="lazy" width="100" height="100"> 
+        </a>
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+    <a href="/contributors/">
+        <img src="/img/contributor/cjp.jpg" alt="cjp" loading="lazy" width="100" height="100"> 
+        </a>
+    </figure> 
 
-  <figure class="mdx-users__testimonial"> 
-  <a href="/contributors/">
-    <img src="/img/contributor/yry.jpg" alt="ryr" loading="lazy" width="100" height="100"> 
-    </a>
-  </figure> 
+  </div> 
 
-  <figure class="mdx-users__testimonial"> 
-  <a href="/contributors/">
-    <img src="/img/contributor/zwj.jpg" alt="zwj" loading="lazy" width="100" height="100"> 
-    </a>
-  </figure> 
+  <div class="mdx-users"> 
+    <figure class="mdx-users__testimonial"> 
 
-  <figure class="mdx-users__testimonial">  
-  <a href="/contributors/">
-    <img src="/img/contributor/zxy.jpg" alt="zxy" loading="lazy" width="100" height="100"> 
-    </a>
-  </figure> 
+    </figure> 
+    <figure class="mdx-users__testimonial"> 
 
-  <figure class="mdx-users__testimonial">  
-  <a href="/contributors/">
-    <img src="/img/contributor/fc.jpg" alt="fc" loading="lazy" width="100" height="100"> 
-    </a>
-  </figure> 
+    </figure> 
+    <figure class="mdx-users__testimonial"> 
+    <a href="/contributors/">
+        <img src="/img/contributor/sxj.jpg" alt="sxj" loading="lazy" width="100" height="100"> 
+        </a>> 
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+    <a href="/contributors/">
+        <img src="/img/contributor/wyf.jpg" alt="wyf" loading="lazy" width="100" height="100"> 
+        </a>> 
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+    <a href="/contributors/">
+        <img src="/img/contributor/zzx.jpg" alt="zzx" loading="lazy" width="100" height="100"> 
+        </a>
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+    <a href="/contributors/">
+        <img src="/img/contributor/zwb.jpg" alt="zwb" loading="lazy" width="100" height="100"> 
+        </a>
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+    <a href="/contributors/">
+        <img src="/img/contributor/ldx.jpg" alt="ldx" loading="lazy" width="100" height="100"> 
+        </a>> 
+    </figure> 
+    <figure class="mdx-users__testimonial">  
 
-<figure class="mdx-users__testimonial">  
-  <a href="/contributors/">
-    <img src="/img/contributor/zc.jpg" alt="zc" loading="lazy" width="100" height="100"> 
-    </a>
-  </figure> 
+
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+
+
+    </figure> 
+    <figure class="mdx-users__testimonial">  
+
+    </figure> 
+
 
   </div> 
 
