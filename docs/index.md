@@ -214,12 +214,14 @@
         </a>
     </figure> 
     <figure class="mdx-users__testimonial">  
-
-
+    <a href="/contributors/">
+        <img src="/img/contributor/zhouzx.jpg" alt="zhouzx" loading="lazy" width="100" height="100"> 
+        </a>
     </figure> 
     <figure class="mdx-users__testimonial">  
-
-
+    <a href="/contributors/">
+        <img src="/img/contributor/cbh.jpg" alt="cbh" loading="lazy" width="100" height="100"> 
+        </a>
     </figure> 
     <figure class="mdx-users__testimonial">  
     
