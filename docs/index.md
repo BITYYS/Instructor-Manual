@@ -15,8 +15,6 @@
     }
 }
 
-
-
 .md-typeset h1 {
     text-align: center;
     font-size: 60px;
@@ -49,6 +47,7 @@
 
 <br>
 
+
 <div class="grid cards"> 
 
 <li> 
@@ -62,7 +61,7 @@
         </ul>
     </p> 
     <div class="text-center">
-    <a href="/蛙泳/四步教学综述/" class="md-button" role="button">蛙泳四步教学</a>
+    <a href="/蛙泳/四步教学综述/" class="md-button" role="button">蛙泳教学</a>
     <a href="/深水突击班/深水突击班/" class="md-button" role="button">深水突击班</a>
     </div>
 </li> 
@@ -96,7 +95,7 @@
     </p> 
 
 <div class="text-center">
-<a href="/教练员培养体系/" class="md-button" role="button">教练员培养体系</a>
+<a href="/教练员培养体系/" class="md-button" role="button">教练员培养</a>
 <a href="/contact/" class="md-button" role="button">联系我们</a>
 </div>
 
@@ -190,12 +189,6 @@
 
   <div class="mdx-users"> 
     <figure class="mdx-users__testimonial"> 
-
-    </figure> 
-    <figure class="mdx-users__testimonial"> 
-
-    </figure> 
-    <figure class="mdx-users__testimonial"> 
     <a href="/contributors/">
         <img src="/img/contributor/sxj.jpg" alt="sxj" loading="lazy" width="100" height="100"> 
         </a>
@@ -229,9 +222,14 @@
 
     </figure> 
     <figure class="mdx-users__testimonial">  
+    
+    </figure> 
+    <figure class="mdx-users__testimonial"> 
 
     </figure> 
-
+    <figure class="mdx-users__testimonial"> 
+    
+    </figure> 
 
   </div> 
 

@@ -5,6 +5,24 @@
     }
 }
 
+@media screen and (max-width: 35em) {
+    /* .mdx-users {
+        flex-direction: column;
+    } */
+    /* .mdx-users__testimonial img {
+        width: 5rem;
+    } */
+    .md-typeset h2 {
+        font-size: 0.8em;
+    }
+    .md-typeset h3 {
+        font-size: 0.6em;
+    }
+    .mdx-users {
+        gap: 1rem;
+    }
+}
+
 /* .md-content__inner {
   padding: 0.2rem 0;
 } */
